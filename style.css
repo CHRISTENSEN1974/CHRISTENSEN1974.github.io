@@ -1,4 +1,8 @@
 body {
+  background-image: url(Personal headshot.jpg);
+  background-repeat: no-repeat;
+  witdth: 100px;
+  height: 100px;
   background: linear-gradient(black, grey);
   color: #ffffff;
   font-family: Verdana;

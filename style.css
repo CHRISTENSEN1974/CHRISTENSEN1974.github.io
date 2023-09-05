@@ -1,8 +1,12 @@
 body {
-  background: linear-gradient(black, grey);
-  color: #ffffff;
+background-image: url(https://th.bing.com/th/id/OIP.N-ru1DfFyeP34N2AZXV1lQHaEo?w=311&h=194&c=7&r=0&o=5&dpr=1.5&pid=1.7);                                    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-position: center;
+  background-color: #ffffff;
   font-family: Verdana;
-  margin: 10% 20%       
+  margin: 10% 20%
 }
 
 .exp-header {
@@ -14,3 +18,13 @@ body {
   border-bottom: 5px solid #ddd
 }
 
+img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+img {
+ max-width: 50%;
+ max-height: 50%;
+}
